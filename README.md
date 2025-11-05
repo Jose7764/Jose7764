@@ -1,4 +1,8 @@
-<h1 align="center">Olá 👋, eu sou José Azarías Pérez Torres</h1>
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](/gitHub_gif.gif)
+
+<div align="center">
+    <h1>👋 Hola , yo soy <a href="https://my-site-ten-taupe.vercel.app/">José</a>.</h1>
+</div>
 <h3 align="center">Dev iniciante 🚀 tentando não quebrar tudo. Apaixonado por café, código e curiosidades tecnológicas.</h3>
 
 - 🌌 Cada repositório é um capítulo da lenda. **Explore e testemunhe o despertar do fullstack supremo.**
