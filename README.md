@@ -11,6 +11,10 @@
 <p align="left">
 </p>
 
+---
+
+<p align="center">
+<!--<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,dotnet,html,css,js,bootstrap,mysql,vscode,eclipse,pycharm,windows,linux,git,blender,robloxstudio" width="600">-->
 <img src="./icons/Arduino.svg" width="37">
 <img src="./icons/Blender-Dark.svg" width="37">
 <img src="./icons/C.svg" width="37">
@@ -36,7 +40,7 @@
 <img src="./icons/VSCode-Dark.svg" width="37">
 <img src="./icons/Windows-Dark.svg" width="37">
 
-
+</p>
 ---
 
 ## 📊 Estatísticas do GitHub
