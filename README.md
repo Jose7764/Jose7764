@@ -1,7 +1,7 @@
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](/gifCarecaPixelado.gif)
 
 <div align="center">
-    <h1>👋 Hola , yo soy <a href="https://my-site-ten-taupe.vercel.app/">José</a>.</h1>
+    <h1>👋 Hola , yo soy José.</h1>
 </div>
 <h3 align="center">Dev iniciante 🚀 tentando não quebrar tudo. Apaixonado por café, código e curiosidades tecnológicas.</h3>
 
